@@ -1,0 +1,2 @@
+# E-commerce
+This repo consists  full implementation of E-commerce website, which hold login, logout, payment gateway implementation. It is a full fledged python-django implementation file. With proper implamentation of UI enhancement features which make it look like a reliable website whcih can be used to represent in project areas.
